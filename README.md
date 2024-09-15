@@ -1,2 +1,3 @@
-Name: Sari Siraj Abdalla Ali
-\nStudent number: s336154
+Name: Sari Siraj Abdalla Ali,
+
+Student number: s336154
