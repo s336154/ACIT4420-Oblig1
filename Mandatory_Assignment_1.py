@@ -100,7 +100,7 @@ class CheckingAccount(BankAccount):
         else:
             print("Insufficient funds for withdrawal and transaction fee.")
 
-# Example usage
+#Example usage
 if __name__ == "__main__":
     #Creating a standard bank account
     account1 = BankAccount("Johnny Debb")
